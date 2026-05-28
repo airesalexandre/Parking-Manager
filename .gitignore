@@ -1,0 +1,19 @@
+# C build
+*.o
+*.out
+a.out
+*.exe
+*.obj
+*.so
+*.a
+
+# Editor/backups
+*~
+*.swp
+*.swo
+
+# IDE
+.vscode/
+
+# Misc
+.DS_Store
