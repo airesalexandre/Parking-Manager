@@ -10,7 +10,7 @@ The program accepts input as lines that start with a letter (the command) follow
 
 ## Action Commands
 
-- **q* - ends the program
+- **q** - ends the program
 
 - **p** - Create a car park with the invoicing system or list existing car parks
 
